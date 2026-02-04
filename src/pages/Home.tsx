@@ -4,11 +4,12 @@ export function Home() {
   return (
     <section className="min-h-screen relative flex flex-col items-center justify-center text-center gap-8 px-4 bg-linear-to-br from-red-800 via-black to-black">
       <h1 className="text-4xl md:text-6xl font-bold text-white">
-        Desenvolvedor Front-end & Mobile
+        Desenvolvedor Full-Stack & Mobile
       </h1>
 
       <p className="text-zinc-400 max-w-xl">
-        Crio aplicações modernas com React e React Native, focadas em
+        Desenvolvo aplicações web e mobile completas, do front-end ao back-end,
+        utilizando React, React Native, Node.js e bancos de dados, com foco em
         performance, usabilidade e código limpo.
       </p>
 

@@ -99,16 +99,18 @@ export function Sobre() {
           </h2>
 
           <p className="text-zinc-300 text-lg leading-relaxed">
-            Sou desenvolvedor front-end e mobile, focado em criar interfaces
-            modernas, funcionais e bem estruturadas. Venho de uma trajetória
-            prática, sempre buscando evoluir tecnicamente e transformar ideias
-            em soluções reais através do código.
+            Sou desenvolvedor Full-Stack e mobile, apaixonado por tecnologia e
+            por transformar ideias em soluções reais. Minha trajetória é marcada
+            pela prática, estudo constante e pela vontade de evoluir todos os
+            dias como profissional.
           </p>
 
           <p className="text-zinc-400 text-lg leading-relaxed mt-4">
-            Trabalho principalmente com React, React Native e tecnologias web
-            modernas, prezando por código limpo, boa experiência do usuário e
-            atenção aos detalhes visuais.
+            Trabalho com React, React Native, Node.js e bancos de dados,
+            desenvolvendo aplicações completas do front-end ao back-end.
+            Valorizo código limpo, boa experiência do usuário e atenção aos
+            detalhes, sempre buscando criar soluções eficientes, organizadas e
+            fáceis de manter.
           </p>
 
           {/* Ícones sociais */}
