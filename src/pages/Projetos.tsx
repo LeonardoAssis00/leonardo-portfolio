@@ -26,7 +26,7 @@ const projects: Project[] = [
   {
     title: "Barber System",
     description:
-      "Sistema de agendamento para barbearias, feito com React, Tailwind e Node.js.",
+      "Sistema de agendamento para barbearias criado com React + Tailwind CSS e Supabase, focado em organização de horários e melhor experiência para clientes e barbeiros. Projeto desenvolvido para resolver um problema real do dia a dia de barbearias.",
     image: "/imagens/barber-system.png",
     link: "https://barber-system-pink.vercel.app/",
     isExternal: true,
@@ -35,7 +35,7 @@ const projects: Project[] = [
   {
     title: "Finance Native",
     description:
-      "App mobile para controle financeiro, com gráficos e relatórios, feito em React Native.",
+      "Aplicativo mobile para gestão financeira pessoal, criado com React Native, permitindo cadastrar receitas e despesas, visualizar gráficos interativos, relatórios por período e acompanhar a organização financeira de forma prática e intuitiva.",
     image: "/imagens/finance-native.png",
     link: "https://drive.google.com/uc?export=download&id=1t8OPdIr34xmZikmhvWzYXU677jNHrQwU",
     isExternal: true,

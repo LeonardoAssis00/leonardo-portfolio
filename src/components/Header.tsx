@@ -21,12 +21,12 @@ export function Header() {
     >
       <div className="max-w-6xl mx-auto px-6 h-16 flex items-center justify-between">
         {/* Logo */}
-        <span className="text-white font-bold text-lg tracking-wide">
+        <a href="#home" className="text-white font-bold text-lg tracking-wide">
           Leonardo{" "}
           <span className="text-red-500 drop-shadow-[0_0_8px_rgba(255,0,0,0.7)] transition">
             Assis
           </span>
-        </span>
+        </a>
 
         {/* Navegação Desktop */}
         <nav className="hidden md:flex gap-8">

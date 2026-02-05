@@ -2,7 +2,10 @@ import { Button } from "@/components/ui/button";
 
 export function Home() {
   return (
-    <section className="min-h-screen relative flex flex-col items-center justify-center text-center gap-8 px-4 bg-linear-to-br from-red-800 via-black to-black">
+    <section
+      className="min-h-screen relative flex flex-col items-center justify-center text-center gap-8 px-4 bg-linear-to-br from-red-800 via-black to-black"
+      id="home"
+    >
       <h1 className="text-4xl md:text-6xl font-bold text-white">
         Desenvolvedor Full-Stack & Mobile
       </h1>

@@ -45,7 +45,7 @@ export function Footer() {
         <p className="text-zinc-400 text-sm text-center md:text-left">
           © {new Date().getFullYear()}{" "}
           <span className="text-white font-semibold">Leonardo Assis</span> —
-          Desenvolvedor Front-end & Mobile
+          Desenvolvedor Full-Stack & Mobile
         </p>
 
         {/* Ícones sociais */}
