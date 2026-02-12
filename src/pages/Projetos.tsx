@@ -30,7 +30,7 @@ const projects: Project[] = [
     image: "/imagens/barber-system.png",
     link: "https://barber-system-pink.vercel.app/",
     isExternal: true,
-    stack: ["React", "Vite", "Tailwind", "Supabase", "Git"],
+    stack: ["React", "Vite", "Tailwind", "Shadcn/ui", "Supabase", "Git"],
   },
   {
     title: "Finance Native",
@@ -40,6 +40,22 @@ const projects: Project[] = [
     link: "https://drive.google.com/uc?export=download&id=1t8OPdIr34xmZikmhvWzYXU677jNHrQwU",
     isExternal: true,
     stack: ["React Native", "Expo", "TypeScript", "Git"],
+  },
+  {
+    title: "Curriculo Fácil",
+    description:
+      "Aplicação web para criação de currículos profissionais de forma simples e rápida, o usuário preenche seus dados, visualiza o currículo em tempo real e pode exportá-lo em PDF pronto para impressão. Desenvolvido com React JS, TypeSript e Tailwind CSS , utilizando gerenciamento de estado com Context API e geração de PDF integrada",
+    image: "/imagens/curriculoFacil.png",
+    link: "https://curriculo-facil-tau.vercel.app/",
+    isExternal: true,
+    stack: [
+      "React",
+      "TypeScript",
+      "Shadcn/ui",
+      "Context API",
+      "React-to-print",
+      "Git",
+    ],
   },
 ];
 
